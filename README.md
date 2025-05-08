@@ -15,20 +15,10 @@
 
 </p>  
 
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
   
 ## 🔥 **On a Mission to Simplify Web3**    
 I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**. I create solutions to automate and secure the crypto and Web3 world, aiming to make it faster, more efficient, and accessible for everyone.  
-  
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+
 
   
 ## 🚀 **What Drives Me?**    
