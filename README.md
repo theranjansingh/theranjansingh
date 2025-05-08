@@ -1,20 +1,11 @@
-<!-- Animated Header-->
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,19,22,25&height=180&section=header&text=🛠️%20Unleash%20Web3%20Automation%20Magic&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%" />
-
-  <!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 
 <!-- Profile Views and Followers -->
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=theranjansingh&label=Profile%20Views&color=blue&style=flat" alt="ayusharyaneth" />  
+  <img src="https://komarev.com/ghpvc/?username=theranjansingh&label=Profile%20Views&color=blue&style=flat" alt="theranjansingh" />  
 </p>
   <p align="center">
-  <a href="https://github.com/theranjansingh?tab=followers"><img src="https://img.shields.io/github/followers/ayusharyaneth?label=Followers&style=social" alt="GitHub Followers"></a>  
+  <a href="https://github.com/theranjansingh?tab=followers"><img src="https://img.shields.io/github/followers/theranjansingh?label=Followers&style=social" alt="GitHub Followers"></a>  
   <a href="https://github.com/theranjansingh?tab=stars"><img src="https://img.shields.io/github/stars/ayusharyaneth?label=Stars&style=social" alt="Stars"></a>  
 
 </p>  
@@ -26,7 +17,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3DF0E2&width=435&lines=Hey%2C+Ayush+Here!;Building+Web3+Automation+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3DF0E2&width=435&lines=Hey%2C+Ranjan+Here!;Building+Web3+Automation+%F0%9F%9A%80">
 </h1>
 
 <!-- ANIMATED SEPARATOR -->
