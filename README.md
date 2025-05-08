@@ -84,9 +84,3 @@ I’m Ranjan, a Full Stack Developer focused on delivering reliable, high-perfor
     Copyright &copy; 2025-present 
     <a href="https://github.com/theranjansingh" target="_blank">Ranjan</a>
   </p>
-
-
-  <p>
-    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
-  </p>
-  
