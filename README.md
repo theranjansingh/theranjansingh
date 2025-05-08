@@ -16,17 +16,15 @@
 </p>  
 
   
-## "Code. Build. Deploy."  
+## 🚀 "Code. Build. Deploy."  
 I’m Ranjan, a Full Stack Developer focused on delivering reliable, high-performance web applications. With expertise in both frontend and backend technologies, I create seamless, efficient solutions that drive results and enhance user experience.
 
   
-
-
-  
 ## 🚀 **What Drives Me?**    
-- **Decentralization**: Believing in the power of decentralized systems to transform industries.    
-- **Security**: Dedicated to building **secure** solutions for decentralized finance and crypto.    
-- **Innovation**: Always exploring new ways to optimize Web3 through **smart contracts**, **dApps**, and automation.  
+- Scalability – Building systems that grow smoothly.
+- Security – Writing safe, reliable code.
+- Simplicity – Solving complex problems with clean solutions.
+- Innovation – Exploring new tech, from front end to blockchain. 
   
   <!-- ANIMATED SEPARATOR -->
 <p align="center">
