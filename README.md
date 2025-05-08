@@ -71,15 +71,6 @@ I’m Ranjan, a Full Stack Developer focused on delivering reliable, high-perfor
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-  
-## 🤝 **Let’s Build the Future of Web3 Together!**    
-Feel free to reach out for **collaborations**, **discussions**, or if you have any questions about my work. I’m always open to new ideas and opportunities! 🚀
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 ## 🐍💜 **Watch My Contributions Slither!**
 > *Every commit feeds the snake!* 🌀✨
 
@@ -97,7 +88,7 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
 
 
 <p align="center">
-    <a href="https://github.com/ayusharyaneth/ayusharyaneth/blob/main/LICENSE">
+    <a href="https://github.com/ayusharyaneth/theranjansingh/blob/main/LICENSE">
       <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="License Badge">
     </a>
   </p>
@@ -107,7 +98,7 @@ Feel free to reach out for **collaborations**, **discussions**, or if you have a
  
 <p align="center">
     Copyright &copy; 2025-present 
-    <a href="https://github.com/ayusharyaneth" target="_blank">Ayush</a>
+    <a href="https://github.com/theranjansingh" target="_blank">Ayush</a>
   </p>
 
 
