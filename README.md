@@ -16,8 +16,10 @@
 </p>  
 
   
-## 🔥 **On a Mission to Simplify Web3**    
-I’m ***Ayush***, A Passionate **Blockchain Innovator** and **Crypto Explorer**. I create solutions to automate and secure the crypto and Web3 world, aiming to make it faster, more efficient, and accessible for everyone.  
+## "Code. Build. Deploy."  
+I’m Ranjan, a Full Stack Developer focused on delivering reliable, high-performance web applications. With expertise in both frontend and backend technologies, I create seamless, efficient solutions that drive results and enhance user experience.
+
+  
 
 
   
