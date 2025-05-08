@@ -26,24 +26,6 @@ I’m Ranjan, a Full Stack Developer focused on delivering reliable, high-perfor
 - Simplicity – Solving complex problems with clean solutions.
 - Innovation – Exploring new tech, from front end to blockchain. 
   
-  <!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🔑 **Skills & Expertise**  
-  
-Here’s a quick look at my core expertise:  
-  
-- **Web3 Automation**: Automating blockchain tasks to enhance efficiency.    
-- **Smart Contract Development**: Building secure contracts for **DeFi** and beyond.    
-- **Blockchain Security**: Ensuring robust security for decentralized applications and systems.  
-  
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 
 ## 🛠️ Tech Stack  
 
@@ -53,18 +35,6 @@ Here’s a quick look at my core expertise:
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />  
 </p>  
 
-<h3 align="center">🐍 Python & Django</h3>  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
-  <img src="https://img.shields.io/badge/Django-092D3F?style=for-the-badge&logo=django&logoColor=white" alt="Django" />  
-</p>  
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-
 
 ## 📊 **GitHub Stats – Development Journey**  
 
@@ -73,7 +43,7 @@ Here’s a quick look at my core expertise:
 
 <p align="center">
   <a href="https://github.com/ayusharyaneth">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayusharyaneth&show_icons=true&count_private=true&theme=dark&hide_border=true&card_width=500" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=theranjansingh&show_icons=true&count_private=true&theme=dark&hide_border=true&card_width=500" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -82,7 +52,7 @@ Here’s a quick look at my core expertise:
 
 <p align="center">
   <a href="https://github.com/ayusharyaneth">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharyaneth&langs_count=5&theme=dark&hide_title=true&hide_border=true&layout=compact&card_width=500" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theranjansingh&langs_count=5&theme=dark&hide_title=true&hide_border=true&layout=compact&card_width=500" alt="Top Languages" />
   </a>
 </p>
 
@@ -90,28 +60,11 @@ Here’s a quick look at my core expertise:
 ### **📈 Activity Graph**  
 
 <p align="center">  
-  <a href="https://github.com/ayusharyaneth">  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusharyaneth&theme=github_dark" alt="Profile Summary" />  
+  <a href="https://github.com/theranjansingh">  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theranjansingh&theme=github_dark" alt="Profile Summary" />  
   </a>  
 </p>  
 
-
-<!-- ANIMATED SEPARATOR -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://t.me/AyushAryaneth">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a> </a>
-  <a href="https://x.com/ayusharyaneth" target="_blank">
-    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" />
-  </a>
-</p>
 
 <!-- ANIMATED SEPARATOR -->
 <p align="center">
